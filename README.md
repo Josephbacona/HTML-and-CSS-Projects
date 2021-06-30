@@ -1,3 +1,3 @@
 # HTML-and-CSS-Projects
-This repository contains all of my projects within the HTML and CSS.
+This repository contains all of my projects within HTML and CSS.
 
