@@ -1,0 +1,18 @@
+table {
+	boarder: 1px lightcyan;
+}
+
+td:hover {
+	background-color: honeydew;
+	color: indigo;
+}
+
+tr, th {
+	background-color: floralwhite;
+	color: indigo;
+}
+
+tr, td {
+	background-color: silver;
+	color: cyan;
+}
